@@ -1,0 +1,16 @@
+Algoritma: Menghitung Keliling Segitiga
+
+
+
+1. Mulai
+
+2. Masukkan panjang sisi pertama (a)
+
+3. Masukkan panjang sisi kedua (b)
+4. Masukkan panjang sisi ketiga (c)
+
+5. Hitung keliling: perimeter = a + b + c
+
+6. Tampilkan hasil: print("Keliling segitiga =", perimeter)
+
+7. Selesai
